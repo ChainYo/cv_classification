@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+multiprocessing
+string
+re
+gensim
+beautifulsoup4
+wordcloud
